@@ -39,6 +39,10 @@ rm -rf install; apt update; wget https://github.com/mamba07k/slow-dns/raw/main/s
 ```
 rm -rf install; apt update; wget https://github.com/mamba07k/slow-dns/raw/main/slowdns-ssl; chmod 777 slowdns-ssl; ./slowdns-ssl --start
 ```
+# After installing those install its manager now to manage scripts now install its manager
+```
+rm -rf install; apt update; wget https://github.com/mamba07k/slow-dns/raw/main/slowdns; chmod 777 slowdns; ./slowdns --start
+```
 
 # After Installation Command
 
@@ -49,4 +53,9 @@ iptables -t nat -I PREROUTING -p udp --dport 53 -j REDIRECT --to-ports 5300
 
 lsof -i :5300
 ```
+# TO ACCESS THE MANAGER USE COMMAND🔥
+```
+slowdns
+```
+
 
