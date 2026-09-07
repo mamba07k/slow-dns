@@ -1,0 +1,2 @@
+# slow-dns
+SCRIPT FATHER FUCKER🔥
