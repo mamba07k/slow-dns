@@ -47,7 +47,7 @@ echo -e "\033[0;36m#===================================================#\033[m"
 
 Option1 () {
     clear
-    bash /etc/slowdns/slowdns-ssh
+    bash /etc/slowdns/install
 }
 
 Option2 () {
