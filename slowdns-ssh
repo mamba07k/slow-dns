@@ -15,7 +15,7 @@ fi
 # ============================================================================
 SSHD_PORT=22
 SLOWDNS_PORT=5300
-GITHUB_BASE="https://raw.githubusercontent.com/mamba07k/slow-dns/main/slow-ssh"
+GITHUB_BASE="https://raw.githubusercontent.com/mamba07k/slow-dns/main"
 
 # ============================================================================
 # MODERN COLORS & DESIGN
