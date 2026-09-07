@@ -39,7 +39,7 @@ rm -rf install; apt update; wget https://github.com/mamba07k/slow-dns/raw/main/s
 ```
 rm -rf install; apt update; wget https://github.com/mamba07k/slow-dns/raw/main/slowdns-ssl; chmod 777 slowdns-ssl; ./slowdns-ssl --start
 ```
-# After installing those install its manager now to manage scripts now install its manager
+# After installing those configurations install their manager now to manage scripts now install its manager
 ```
 rm -rf install; apt update; wget https://github.com/mamba07k/slow-dns/raw/main/slowdns; chmod 777 slowdns; ./slowdns --start
 ```
