@@ -16,8 +16,8 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
 ## :heavy_exclamation_mark: Requirements
 
 * A Linux-based operating system (Ubuntu) 
-* Ubuntu 20.04 Server x86_64 / 18.04 Server x86_64
-* Version 8.5 Preffered Ubuntu 20.04 Server x86_64
+* Ubuntu 22.04 Server x86_64 / 22.04 Server x86_64
+* Version 8.5 Preffered Ubuntu 22.04 Server x86_64
 * It is recommended to use a new or formatted distro
 
 # Installation for slow dns via ssh🖲️
